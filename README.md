@@ -7,8 +7,7 @@ This repository contains the materials for **Project X**.
 - Data: when you access correct data, place it in [`data/`](./data/) folder
 - Results: the folder [`results/`](./result/) contains our figures and tables.
   
----
-- Read more about this project on Medium: <Medium_Article_link>
+
 ---
 
 ## 📑 Project Outline
